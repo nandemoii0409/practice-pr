@@ -1,0 +1,11 @@
+{
+  "name": "practice-pr",
+  "version": "1.0.0",
+  "description": "A tiny string utilities library used to practice the GitHub PR workflow.",
+  "main": "src/stringUtils.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
