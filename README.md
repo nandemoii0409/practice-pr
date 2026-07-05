@@ -6,7 +6,7 @@ A tiny string utilities library, created to practice the GitHub pull request wor
 
 - `capitalize(str)` - uppercases the first letter of a string.
 - `reverseString(str)` - reverses the characters of a string.
-- `isPalindrome(str)` - checks weather a string is a palindrome (ignoring case and non-alphanumeric characters).
+- `isPalindrome(str)` - checks whether a string is a palindrome (ignoring case and non-alphanumeric characters).
 
 ## Usage
 
